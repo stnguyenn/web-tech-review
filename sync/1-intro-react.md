@@ -4,7 +4,9 @@
 
 - [ ] Setup for the Tutorial.
   - Runtime environment: NodeJS
-  - 
+  - https://brew.sh
+  - https://scoop.sh
+  
 - [ ] Overview fundamentals of React: components, props, and state.
 - [ ] Most common techniques in React development.
 - [ ] Adding Time Travel - Unique strengths of React.
